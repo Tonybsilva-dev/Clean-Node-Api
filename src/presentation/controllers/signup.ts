@@ -14,4 +14,3 @@ export class SignUpController implements Controller {
     }
   }
 }
-
